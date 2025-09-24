@@ -6,6 +6,14 @@ quiero registrar mi postulacion a la UMSS
 
 tal que pueda continuar con el proceso de inscripcion
 
+*Tasks*
+
+* Disenio de la GUI
+* Validar los inputs
+* Conexion con la base de datos
+* Almacenar los datos en la base de datos
+* Retroalimentacion al usuario
+* Manejo de excepciones
 ## Registro de postulante por examen de admision
 Yo como postulante a la universidad mayor de san simon
 
