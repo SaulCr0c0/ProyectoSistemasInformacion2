@@ -21,6 +21,9 @@ quiero registrar mi postulacion a la san simon
 
 tal que pueda ser habilitado para dar mi examen de admision y pueda continuar con el proceso de inscripcion
 
+*tasks*
+* 
+
 ## Entrega de documentos por excelencia
 Yo como postulante admitido 
 
