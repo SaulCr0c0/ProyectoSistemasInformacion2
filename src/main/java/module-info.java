@@ -10,6 +10,7 @@ module org.gruposi.proyectosistemasinformacion2 {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires java.sql;
 
     opens org.gruposi.proyectosistemasinformacion2 to javafx.fxml;
     exports org.gruposi.proyectosistemasinformacion2;
